@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Infinite_Color_Switch_Touch_Complete_Final.Plugins", "12.Infinite_Color_Switch_Touch_Complete_Final.Plugins.csproj", "{8A3DD1A9-E946-B2BB-1DD2-9B9C989C570E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Infinite_Color_Switch_Touch_Complete_Final", "12.Infinite_Color_Switch_Touch_Complete_Final.csproj", "{7D03BDA3-86B1-F1B5-7425-505F6C7DACC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Infinite_Color_Switch_Touch_Complete_Final.Editor", "12.Infinite_Color_Switch_Touch_Complete_Final.Editor.csproj", "{C9A8DB8A-98B5-1CBA-4571-930178F6EFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3DD1A9-E946-B2BB-1DD2-9B9C989C570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3DD1A9-E946-B2BB-1DD2-9B9C989C570E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3DD1A9-E946-B2BB-1DD2-9B9C989C570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3DD1A9-E946-B2BB-1DD2-9B9C989C570E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D03BDA3-86B1-F1B5-7425-505F6C7DACC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D03BDA3-86B1-F1B5-7425-505F6C7DACC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D03BDA3-86B1-F1B5-7425-505F6C7DACC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D03BDA3-86B1-F1B5-7425-505F6C7DACC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A8DB8A-98B5-1CBA-4571-930178F6EFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A8DB8A-98B5-1CBA-4571-930178F6EFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A8DB8A-98B5-1CBA-4571-930178F6EFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A8DB8A-98B5-1CBA-4571-930178F6EFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
